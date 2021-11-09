@@ -1,3 +1,7 @@
-<img align="center" width="400" src="https://github.com/osumpi/.github/blob/562c9b5623f395be195ae69e2458d6105bebdd5f/profile/banner.png"/>
+<p align="center">
+<img width="400" src="https://github.com/osumpi/.github/blob/main/profile/banner.png?raw=true"/>
+</p>
 
+<p align="center">
 Connecting things | IoT Automation Framework
+</p>
