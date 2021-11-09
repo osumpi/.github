@@ -1,3 +1,3 @@
-![osumpi](https://github.com/osumpi/.github/blob/c214f10243c035011b9665aca080f0857befd546/profile/banner.png)
+![osumpi](https://github.com/osumpi/.github/blob/562c9b5623f395be195ae69e2458d6105bebdd5f/profile/banner.png)
 
 Connecting things | IoT Automation Framework
